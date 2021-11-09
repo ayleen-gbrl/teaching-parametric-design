@@ -3,5 +3,13 @@ function setup() {
 }
 
 function draw() {
-  background(100);
+  noLoop();
+  background(255);
+
+  FileList(50);
+  for (
+    let rectY = 0;
+    rectY < sketchHeight;
+    
+  )
 }
