@@ -14,4 +14,5 @@ function draw() {
   fill (black);
   triangle(60, 105, 88, 50, 116, 105);
   save();
+  noLoop();
   }
